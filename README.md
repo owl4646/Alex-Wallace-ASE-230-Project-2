@@ -1,6 +1,6 @@
 ASE230 Project 2 - Final Submission
 Alex Wallace
-Structure:
+
 - code/: Laravel application (API, Docker, scripts)
 - presentation/: Hugo site (documentation and portfolio)
 - plan/: project plan and notes
