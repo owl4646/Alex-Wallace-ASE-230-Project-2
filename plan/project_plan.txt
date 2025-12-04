@@ -1,0 +1,12 @@
+Project Plan (Fixed from HW2, will also redo HW2 with this in mind)
+- Theme: User Manager
+- Endpoints: register, login, users (CRUD)
+- Auth: Bearer tokens stored in tokens table
+- DB: MySQL project1 database
+- Dev steps:
+  1. Create DB + tables
+  2. Implement config + token utils
+  3. Implement endpoints
+  4. Test with curl + HTML page
+  5. Create Marp slides and convert to PDF
+  6. Deploy on NGINX
