@@ -1,4 +1,4 @@
-Project Plan (Fixed from HW2, will also redo HW2 with this in mind)
+Project Plan 
 - Theme: User Manager
 - Endpoints: register, login, users (CRUD)
 - Auth: Bearer tokens stored in tokens table

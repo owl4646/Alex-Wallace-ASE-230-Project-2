@@ -10,3 +10,4 @@ Structure:
 - Automated deployment script: code/scripts/run.sh included.
 - Docker containerization: Dockerfile and docker-compose.yml included; setup script setup.sh present.
 - Hugo documentation: presentation/ contains Hugo site; .github/workflows deploy_hugo.yml included.
+- Final zip excludes raw project1 PHP copies and extraneous zip files and backups.
